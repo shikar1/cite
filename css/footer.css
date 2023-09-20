@@ -1,0 +1,42 @@
+footer {
+    background-color: black;
+    width: 100%;
+    height: 120px;
+    display: flex;
+    color: white;
+    justify-content: space-around;
+}
+.logo2 {
+    padding-left: 50px;
+    padding-top: 50px;
+}
+.links {
+    padding-top: 50px;
+}
+.link {
+    color: white;
+    text-decoration: none;
+    font-size: 12px;
+    padding-right: 15px;
+}
+.link:hover {
+    color:red;
+}
+.phone2 {
+    font-size: 20px;
+    padding-top: 50px;
+    padding-left: 20px;
+}
+.email2 {
+    font-size: 12px;
+    padding-top: 55px;
+    padding-left: 40px;
+}
+.svyaz {
+    display: flex;
+}
+.border {
+    color: white;
+    position: absolute;
+    padding-top: 40px;
+}

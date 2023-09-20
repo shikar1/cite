@@ -1,0 +1,68 @@
+header {
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-color: rgb(24, 9, 65);
+}
+.line {
+    padding-top: 15px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+@media (min-width: 600px) {
+    .line {
+        flex-direction: row;
+        font-size: 10px;
+    }
+}
+.navigation {
+    padding-top: 5px;
+    justify-content: space-between;
+    font-size: 12px;
+}
+.nav {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    margin: 15px
+}
+.nav:hover {
+    color: red;
+}
+.icons {
+    display: flex;
+}
+.search {
+    margin-right: 55px;
+}
+.human {
+    margin-right: 55px;
+}
+.text {
+    width: 312px;
+    height: 98px;
+    padding-top: 100px;
+    padding-left: 50px;
+    color: white;
+    font-size: 25px;
+}
+.middle {
+    display: flex;
+}
+.recktangle {
+    padding-left: 401px;
+    padding-top: 20px;
+    position: absolute;
+}
+.phone {
+    color: white;
+    padding-top: 200px;
+    padding-left: 50px;
+    font-size: 25px;
+}
+.email {
+    font-size: 15px;
+    padding-left: 50px;
+    color: white;
+    padding-top: 5px;
+}

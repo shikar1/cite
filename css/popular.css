@@ -1,0 +1,199 @@
+.popular {
+    width: 643px;
+    height: 194px;
+    font-size: 80px;
+    color: white;
+    padding-left: 500px
+}
+.container2 {
+    padding-left: 40px;
+    padding-top: 50px;
+    display: flex;
+}
+.box {
+    width: 233px;
+    height: 444px;
+}
+.text1 {
+    font-size: 20px;
+    color: white;
+    padding-top: 15px;
+    width: 233px;
+}
+.gm1 {
+    font-size: 13px;
+    color: white;
+    padding-top: 5px;
+}
+.desc1 {
+    font-size: 13px;
+    width: 233px;
+    color: white;
+    padding-top: 5px;
+}
+.niz1 {
+    display: flex;
+}
+.pc1 {
+    font-size: 23px;
+    color: white;
+    padding-top: 15px;
+    padding-right: 30px;
+}
+.cart-y1 {
+    padding-top: 10px;
+}
+.box2 {
+    width: 233px;
+    height: 444px;
+    padding-left: 15px;
+}
+.text2 {
+    font-size: 20px;
+    color: white;
+    padding-top: 15px;
+}
+.gm2 {
+    font-size: 13px;
+    color: white;
+    padding-top: 5px;
+}
+.desc2 {
+    font-size: 13px;
+    width: 233px;
+    color: white;
+    padding-top: 5px;
+}
+.niz2 {
+    display: flex;
+}
+.text-line2 {
+    color: white;
+    padding-top: 8px;
+    opacity: 80%;
+    font-size: 18px;
+    padding-right: 30px;
+}
+.pc2 {
+    position: absolute;
+    font-size: 23px;
+    padding-top: 28px;
+    color: white;
+}
+.cart-y2 {
+    padding-left: 20px;
+    padding-top: 10px;
+}
+.box3 {
+    width: 233px;
+    height: 444px;
+    padding-left: 15px;
+}
+.text3 {
+    font-size: 20px;
+    color: white;
+    padding-top: 15px;
+}
+.gm3 {
+    font-size: 13px;
+    color: white;
+    padding-top: 5px;
+}
+.desc3 {
+    font-size: 13px;
+    width: 233px;
+    color: white;
+    padding-top: 5px;
+}
+.niz3 {
+    display: flex;
+}
+.text-line3 {
+    color: white;
+    padding-top: 8px;
+    opacity: 80%;
+    font-size: 18px;
+    padding-right: 30px;
+}
+.pc3 {
+    position: absolute;
+    font-size: 23px;
+    padding-top: 28px;
+    color: white;
+}
+.cart-y3 {
+    padding-left: 20px;
+    padding-top: 10px;
+}
+.box4 {
+    width: 233px;
+    height: 444px;
+    padding-left: 15px;
+}
+.text4 {
+    font-size: 20px;
+    color: white;
+    padding-top: 15px;
+}
+.gm4 {
+    font-size: 13px;
+    color: white;
+    padding-top: 5px;
+}
+.desc4 {
+    font-size: 13px;
+    width: 233px;
+    color: white;
+    padding-top: 5px;
+}
+.niz4 {
+    display: flex;
+}
+.text-line4 {
+    color: white;
+    padding-top: 8px;
+    opacity: 80%;
+    font-size: 18px;
+    padding-right: 30px;
+}
+.pc4 {
+    position: absolute;
+    font-size: 23px;
+    color: white;
+    padding-top: 28px;
+}
+.cart-y4 {
+    padding-left: 20px;
+    padding-top: 10px;
+}
+.box5 {
+    width: 233px;
+    height: 444px;
+    padding-left: 15px;
+}
+.text5 {
+    font-size: 20px;
+    color: white;
+    padding-top: 15px;
+    width: 233px;
+}
+.gm5 {
+    font-size: 13px;
+    color: white;
+    padding-top: 5px;
+}
+.desc5 {
+    font-size: 13px;
+    width: 233px;
+    color: white;
+    padding-top: 5px;
+}
+.niz5 {
+    display: flex;
+}
+.pc5 {
+    font-size: 23px;
+    color: white;
+    padding-top: 15px;
+    padding-right: 30px;
+}
