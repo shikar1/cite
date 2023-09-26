@@ -1,12 +1,57 @@
 body {
     margin: 0;
     font-family: 'Montserrat', sans-serif;
+    background-color: rgb(24, 9, 65);
 }
 main {
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 1621px;
-    background-color: rgb(24, 9, 65);
+    height: auto;
+}
+.text {
+    width: 312px;
+    height: 98px;
+    padding-top: 100px;
+    padding-left: 50px;
+    color: white;
+    font-size: 25px;
+}
+.middle {
+    border: 1px solid rebeccapurple;
+    display: flex;
+    flex-direction: column-reverse;
+}
+@media (min-width: 768px) {
+    .middle {
+        flex-direction: row;
+    }
+}
+.contact {
+    position:relative;
+}
+.recktangle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+.recktangle img {
+    max-width: 100%;
+}
+.phone {
+    color: white;
+    padding-top: 200px;
+    padding-left: 50px;
+    font-size: 25px;
+}
+.email {
+    font-size: 15px;
+    padding-left: 50px;
+    color: white;
+    padding-top: 5px;
+}
+.desert-box {
+    border: 1px solid red;
+    width: 300px;
+    padding: 30px;
 }
 .desert {
     padding-left: 24px;
